@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642366686 source:c:\users\ts\desktop\isim\kurs c\redukcja\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

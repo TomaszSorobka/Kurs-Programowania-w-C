@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638747158 source:c:\users\ts\desktop\isim\kurs c\permutacje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

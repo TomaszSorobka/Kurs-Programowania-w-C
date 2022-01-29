@@ -1,0 +1,18 @@
+
+plik1.txt(16)
+lololilo
+
+plik2.txt(1)
+menztzen chuj
+
+plik1.txt(16)
+lololilo
+
+plik1.txt(16)
+lololilo
+
+plik2.txt(1)
+menztzen chuj
+
+plik1.txt(16)
+lololilo

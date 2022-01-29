@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1638826362 source:c:\users\ts\desktop\isim\kurs c\kolejka\kolejka.c
+	<stdio.h>
+	<stdlib.h>
+	"kolejka.h"
+
+1638819410 c:\users\ts\desktop\isim\kurs c\kolejka\kolejka.h
+
+1638826346 source:c:\users\ts\desktop\isim\kurs c\kolejka\main.c
+	<stdio.h>
+	<stdlib.h>
+	"kolejka.h"
+

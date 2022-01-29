@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639313463 source:c:\users\ts\desktop\isim\kurs c\erastotenes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
